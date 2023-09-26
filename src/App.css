@@ -48,7 +48,7 @@ input{
   max-width: calc(33.33% - 20px);
   width: 100%;
   background:#fff;
-  background-image: url("F:\React Js\ReactSmart\challenge\public\4.jpg");
+  background-image: url("/public/4.jpg");
   border-radius: 10px;
   padding: 20px;
   margin-bottom: 20px ;
